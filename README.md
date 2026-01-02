@@ -1,3 +1,4 @@
+![Bannre](https://github.com/hamidreza077/hamidreza077/blob/main/mario.gif)
 <h1 align="center">Hi 👋, I'm Hamidreza</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
